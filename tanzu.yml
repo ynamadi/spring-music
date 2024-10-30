@@ -1,0 +1,7 @@
+apiVersion: config.tanzu.vmware.com/v1
+configuration:
+  dev:
+    paths:
+    - .tanzu/config/
+  id: config-f32e52a2-1a0d-4dcb-817a-bdb8542caa68
+kind: TanzuConfig
